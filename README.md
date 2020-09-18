@@ -3,7 +3,7 @@ Projeto API REST com NodeJS
 
 No projeto, foi utilizado as seguintes libs:
 
-"dependencies": {
+#  "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
@@ -13,13 +13,13 @@ No projeto, foi utilizado as seguintes libs:
   
   Para iniciar o projeto devemos digitar no terminal da pasta root:
   
-  npm install
+#npm install
   
   
   Assim as dependencias de dev serão baixadas, então:
   
   
-  npm start 
+#npm start 
   
   
   Assim o projeto será inicializado na porta especáfica.
